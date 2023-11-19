@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "nome": "carlos",
+      "cpf": "150.043.120-60",
+      "id": 1
+    },
+    {
+      "nome": "Joao",
+      "cpf": "150.043.120-60",
+      "id": 2
+    },
+    {
+      "nome": "Joao",
+      "cpf": "150.043.120-60",
+      "id": 3
+    },
+    {
+      "nome": "Joao",
+      "cpf": "150.043.120-60",
+      "id": 4
+    }
+  ],
+  "veiculos": [],
+  "abastecimentos": []
+}
